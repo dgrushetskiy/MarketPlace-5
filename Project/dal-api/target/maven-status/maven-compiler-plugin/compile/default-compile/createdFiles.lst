@@ -1,0 +1,15 @@
+com\senla\kedaleanid\dalapi\model\IUserDao.class
+com\senla\kedaleanid\dalapi\model\ICommentDao.class
+com\senla\kedaleanid\dalapi\model\ITransactionDao.class
+com\senla\kedaleanid\dalapi\model\IAdvertisementDao.class
+com\senla\kedaleanid\dalapi\model\IUserCredsDao.class
+com\senla\kedaleanid\dalapi\model\IMessageDao.class
+com\senla\kedaleanid\dalapi\IGenericDao.class
+com\senla\kedaleanid\dalapi\model\IAdvertisementCategoryDao.class
+com\senla\kedaleanid\dalapi\model\ISecretCodeDao.class
+com\senla\kedaleanid\dalapi\model\IChatDao.class
+com\senla\kedaleanid\dalapi\model\IAdvertisementPaidUntilDao.class
+com\senla\kedaleanid\dalapi\model\IAdvertisementPhotoDaoApi.class
+com\senla\kedaleanid\dalapi\model\IUserRoleDao.class
+com\senla\kedaleanid\dalapi\model\IAdvertisementTypeDao.class
+com\senla\kedaleanid\dalapi\model\IUserPhotoDao.class

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dal:war">
+    <output-path>$PROJECT_DIR$/dal/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>dal</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="dal.war">
+      <element id="artifact" artifact-name="dal:war exploded" />
+    </root>
+  </artifact>
+</component>

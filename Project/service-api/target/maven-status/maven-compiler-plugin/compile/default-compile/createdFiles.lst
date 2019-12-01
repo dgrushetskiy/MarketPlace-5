@@ -1,0 +1,15 @@
+com\senla\kedaleanid\serviceapi\model\IAdvertisementService.class
+com\senla\kedaleanid\serviceapi\model\IUserRoleService.class
+com\senla\kedaleanid\serviceapi\model\ICommentService.class
+com\senla\kedaleanid\serviceapi\model\IAdvertisementPhotoService.class
+com\senla\kedaleanid\serviceapi\model\IUserCredsService.class
+com\senla\kedaleanid\serviceapi\model\IChatService.class
+com\senla\kedaleanid\serviceapi\model\IMessageService.class
+com\senla\kedaleanid\serviceapi\model\ITransactionService.class
+com\senla\kedaleanid\serviceapi\model\IUserPhotoService.class
+com\senla\kedaleanid\serviceapi\model\IAdvertisementCategoryService.class
+com\senla\kedaleanid\serviceapi\IGenericService.class
+com\senla\kedaleanid\serviceapi\model\IUserService.class
+com\senla\kedaleanid\serviceapi\model\ISecretCodeService.class
+com\senla\kedaleanid\serviceapi\model\IAdvertisementPaidUntilService.class
+com\senla\kedaleanid\serviceapi\model\IAdvertisementTypeService.class

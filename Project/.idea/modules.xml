@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/controller/controller.iml" filepath="$PROJECT_DIR$/controller/controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dal/dal.iml" filepath="$PROJECT_DIR$/dal/dal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dal-api/dal-api.iml" filepath="$PROJECT_DIR$/dal-api/dal-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-homework.iml" filepath="$PROJECT_DIR$/maven-homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/model/model.iml" filepath="$PROJECT_DIR$/model/model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-api/service-api.iml" filepath="$PROJECT_DIR$/service-api/service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utility/utility.iml" filepath="$PROJECT_DIR$/utility/utility.iml" />
+    </modules>
+  </component>
+</project>
