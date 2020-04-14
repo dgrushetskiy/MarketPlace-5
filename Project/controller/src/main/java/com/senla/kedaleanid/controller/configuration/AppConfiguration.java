@@ -96,7 +96,7 @@ public class AppConfiguration {
         mailSender.setPort(587);
 
         mailSender.setUsername("reswizcompany@gmail.com");
-        mailSender.setPassword("Nokia5230mango");
+        mailSender.setPassword("****");
 
         Properties javaMailProperties = new Properties();
         javaMailProperties.put("mail.smtp.starttls.enable", "true");
